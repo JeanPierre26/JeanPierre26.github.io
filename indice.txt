@@ -1,0 +1,10 @@
+.archivos -. en esta carpeta agregue las imagenes
+.ayuda -. en esta carpeta se podra encontrar archivos php que nos daran algunas funcionalidades
+.bd-. contiene el query de nuestra base de datos
+.clases-. contiene todas las clases.
+.css- contiene el archivo menu.css que dara estilos a la pagina.
+.img- contiene otras imagenes.
+.js- contiene un archivo llamado funciones.js 
+.librerias- contiene boostrap
+.procesos- contiene todos los procesos php
+.vistas- se podra encontrar todo lo que se ve en la pagina (tablas,formularios)
